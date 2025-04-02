@@ -11,6 +11,13 @@
 ### Project Overview
 This project analyzes Pizza sales data using SQL to derive insights about revenue, order trends, and best-selling pizzas and sum up the findings to make a report using power bi to gain deeper understanding of company's performance and add up to the growth. 
 
+
+### Dashboards-
+![Screenshot 2025-04-02 125537](https://github.com/user-attachments/assets/73544d4c-a08c-469a-8e5f-5e743172319c)
+
+
+![Screenshot 2025-04-02 125636](https://github.com/user-attachments/assets/31f89523-03c2-4296-acb3-7527d573146c)
+
 ### Data Sources
 The primary dataset used for this analyzes is the 'pizza_sales.csv' that contains detail information of the sales made by the pizza company.
 
