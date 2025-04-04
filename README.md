@@ -1,4 +1,4 @@
-# Sagar's Profile
+
 
 ## Project 1: Pizza Sales Analysis
 
